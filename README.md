@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Quote Scraper with Proxy Support
 
 This project is a Python script that scrapes quotes from [Quotes to Scrape](https://quotes.toscrape.com) website using Selenium WebDriver. It supports navigating through multiple pages and extracting quotes, author information, and tags. The script also supports using a proxy server to anonymize requests and bypass restrictions.
@@ -88,4 +87,3 @@ Each quote in the CSV file contains:
     Author name
     Tags associated with the quote
     Author details (name, date of birth, location, bio)
->>>>>>> 1b732ac97d989e37283957a8444eee8965f562fa
