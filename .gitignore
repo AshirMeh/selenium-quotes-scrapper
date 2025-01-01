@@ -1,0 +1,7 @@
+.venv/
+
+.env
+*.env
+
+.quotes.csv
+.main.py
